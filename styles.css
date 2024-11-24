@@ -1,0 +1,172 @@
+body {
+    background: linear-gradient(#0096c7, #90e0ef);
+    color: white;
+    text-align: center;
+    
+}
+
+.list {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #ada3a5;
+     
+}
+
+
+#hero {
+    background-image: url("nig.jpg");
+    background-size: cover;
+    padding: 10px 0 100px 0
+
+}
+
+.underline {
+    border-bottom: 3px solid black;
+}
+
+h1, h2 {
+    text-shadow: 0px 0px 3px black; 
+}
+
+h3 {
+    color: black;
+}
+
+h2 {
+    text-align: center;
+}
+
+.gmain {
+    color: #f07167;
+
+}
+
+.geographyimg {
+    width: 350px;
+    margin-right: 20px;
+    border-radius: 5px;
+
+}
+
+.geography {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    padding: 20px 50px;
+    justify-content: space-around;
+    border-bottom: 4px solid #f07167;
+    border-radius: 8px;
+
+}
+
+.gtext {
+    margin-top: 20px;
+    color: black;
+}
+
+
+.historyimg {
+    width: 500px;
+    height: 350px;
+    border-radius: 5px;
+   
+
+}
+
+.history {
+    margin-left: auto;
+    margin-right: auto;
+    
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 20px 50px;
+    justify-content: space-around;
+    border-bottom: 4px solid #f07167;
+    border-radius: 8px;
+
+
+}
+
+.htext {
+    margin-top: 100px;
+    margin-right: 20px;
+    color: black;
+}
+
+.main {
+    margin-top: 70px;
+    color: #f07167;
+    
+}
+
+
+.cultureimg {
+    width: 350px;
+    margin-right: 20px;
+    border-radius: 5px;
+
+}
+
+.culture {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    padding: 20px 50px;
+    justify-content: space-around;
+    border-bottom: 4px solid #f07167;
+    border-radius: 8px;
+
+
+}
+
+.ctext {
+    margin-top: 20px;
+    color: black;
+}
+
+.cmain {
+    margin-top: 70px;
+    color: #f07167;
+    
+}
+
+
+.natureimg {
+    width: 350px;
+    border-radius: 5px;
+   
+
+}
+
+.nature {
+    margin-left: auto;
+    margin-right: auto;
+    
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 20px 50px;
+    justify-content: space-around;
+    border-bottom: 4px solid #f07167;
+    border-radius: 8px;
+
+
+}
+
+.ntext {
+    margin-top: 20px;
+    margin-right: 20px;
+    color: black;
+}
+
+.nmain {
+    margin-top: 70px;
+    color: #f07167;
+    
+}
+
+.more {
+    color: black;
+}
+
+
+
